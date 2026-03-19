@@ -1,4 +1,4 @@
-# Hi there, I'm Amay!
+# hi, i'm amay
 
 I'm a software engineer focused on machine learning, backend systems, and performance tuning. I like solving and building products people actually use.
 
@@ -8,7 +8,7 @@ I'm a software engineer focused on machine learning, backend systems, and perfor
 
 ---
 
-## My Toolbox
+## tools
 
 *   **Languages:** Python, C++, Swift, JavaScript, SQL, HTML/CSS
 *   **Frameworks & Libraries:** Flask, React, SwiftUI, TensorFlow, scikit-learn
@@ -17,7 +17,7 @@ I'm a software engineer focused on machine learning, backend systems, and perfor
 
 ---
 
-## Projects I'm Proud Of
+## projects
 
 ### [Spasht: Real-Time Speech Therapy Engine](https://github.com/amayIIp/MITWPU_Group_16)
 > A low-latency iOS app that listens in real-time to detect stuttering. I wrote a machine learning pipeline using Dynamic Time Warping (DTW) to align text and audio. It has high accuracy, runs entirely on the device for privacy, and has basically zero lag. Nobody likes waiting for their therapy app to buffer.
@@ -41,7 +41,7 @@ I'm a software engineer focused on machine learning, backend systems, and perfor
 
 ---
 
-## Currently Building
+## building
 
 ### [amay.fun](https://amay.fun)
 > A collection of highly interactive web experiences inspired by neal.fun. I'm focusing on heavy DOM manipulation and optimized rendering to hit a smooth 60 frames per second.
