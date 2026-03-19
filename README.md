@@ -1,6 +1,6 @@
 # Hi there, I'm Amay!
 
-I'm a software engineer focused on machine learning, backend systems, and performance tuning. I like solving hard problems, fighting with compilers, and building products people actually use.
+I'm a software engineer focused on machine learning, backend systems, and performance tuning. I like solving and building products people actually use.
 
 [![GitHub](https://img.shields.io/badge/GitHub-amayIIp-181717?style=flat&logo=github)](https://github.com/amayIIp)
 [![Email](https://img.shields.io/badge/Email-amayputhiyedath%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amayputhiyedath@gmail.com)
@@ -50,16 +50,6 @@ I'm a software engineer focused on machine learning, backend systems, and perfor
 
 ---
 
-## Education & Trophies
-
-**MIT World Peace University (MIT-WPU), Pune**  
-*B.Tech in Computer Science & Engineering* | 2023 to 2027 | CGPA: 8.66
-
-*   **Runner-up** at HACK MIT (Built a full software solution on zero sleep)
-*   **Runner-up** at Coding Relay (Competitive algorithmic problem solving)
-*   **Rank 27** in NIDAR 2025/26
-
----
 
 <p align="center">
   <i>Looking for software engineering opportunities to build scalable systems and write code that doesn't wake me up at 3 AM.</i>
