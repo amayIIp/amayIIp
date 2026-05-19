@@ -62,10 +62,6 @@ Interactive web experiments focused on playful UI, heavy DOM manipulation, and s
 
 ---
 
-## working style
-
-I like building systems that are ambitious without being fragile: clear interfaces, practical architecture, fast feedback loops, and honest tradeoffs. I am especially interested in software engineering roles where I can work on mobile products, backend platforms, AI-enabled features, or developer-facing systems.
-
 <p align="center">
   <i>Always happy to talk about software that feels fast, useful, and thoughtfully built.</i>
 </p>
