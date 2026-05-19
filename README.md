@@ -20,11 +20,11 @@ I build product-grade software across iOS, backend systems, and applied AI. My f
 
 ## featured work
 
-### [Spasht: Real-Time Stuttering Detection for Speech Therapy](https://github.com/amayIIp/MITWPU_Group_16)
+### [Spasht: Real-Time Stuttering Detection for Speech Therapy](https://github.com/amayIIp/Stutter_Detection_Model)
 
-Privacy-focused iOS speech therapy system that detects stuttering patterns while the user speaks. I worked on the real-time audio pipeline and Dynamic Time Warping based speech alignment so feedback stays fast, local, and useful during practice sessions.
+Privacy-focused speech therapy system that detects stuttering patterns, scores fluency, logs session metrics, and turns practice history into Tableau/Power BI dashboards with a time-series forecast of fluency improvement.
 
-`Swift` `On-Device ML` `Audio Processing` `Speech Recognition`
+`Python` `Whisper` `JiWER` `Speech Recognition` `Tableau` `Power BI` `Forecasting`
 
 ### [ShopEase: AI Ecommerce iOS App](https://github.com/manasjiw26/Ecommerce-IOS)
 
