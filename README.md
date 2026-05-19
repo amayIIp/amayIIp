@@ -1,56 +1,71 @@
 # hi, i'm amay
 
-I'm a software engineer focused on machine learning, backend systems, and performance tuning. I like solving and building products people actually use.
+I build product-grade software across iOS, backend systems, and applied AI. My favorite work sits where a real user experience depends on the full stack holding together: fast interfaces, clean APIs, useful machine learning, and enough engineering discipline that the app still behaves after the demo.
 
 [![GitHub](https://img.shields.io/badge/GitHub-amayIIp-181717?style=flat&logo=github)](https://github.com/amayIIp)
 [![Email](https://img.shields.io/badge/Email-amayputhiyedath%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amayputhiyedath@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amay.fun-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://amay.fun)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amay.fun-000000?style=flat&logo=firefox&logoColor=white)](https://amay.fun)
 
 ---
 
-## tools
+## what i work on
 
-*   **Languages:** Python, C++, Swift, JavaScript, SQL, HTML/CSS
-*   **Frameworks & Libraries:** Flask, React, SwiftUI, TensorFlow, scikit-learn
-*   **Tools:** MySQL, Git, Linux, Firebase
-*   **Core Skills:** Data Structures & Algorithms, System Design, applied ML, and keeping latency as low as possible.
+- **Mobile products:** Swift, SwiftUI, MVVM, on-device flows, iOS app architecture
+- **Backend systems:** Node.js, Express, Flask, REST APIs, auth, payments, hosted services
+- **Applied AI:** recommendation systems, semantic search, speech/audio processing, computer vision, ML pipelines
+- **Data and infra:** Supabase/PostgreSQL, Firebase, MySQL, Render, Cloudinary, Git, Linux
+- **Core engineering:** DSA, system design, performance tuning, and turning rough prototypes into usable products
 
 ---
 
-## projects
+## featured work
 
-### [Spasht: Real-Time Speech Therapy Engine](https://github.com/amayIIp/MITWPU_Group_16)
-> A low-latency iOS app that listens in real-time to detect stuttering. I wrote a machine learning pipeline using Dynamic Time Warping (DTW) to align text and audio. It has high accuracy, runs entirely on the device for privacy, and has basically zero lag. Nobody likes waiting for their therapy app to buffer.
-> 
-> `Swift` `On-Device ML` `Audio Processing` `Speech Recognition`
+### [Spasht: Real-Time Stuttering Detection for Speech Therapy](https://github.com/amayIIp/MITWPU_Group_16)
 
-### [Smart Chess Clock (ClockMate)](https://github.com/amayIIp/ClockMate)
-> An iOS utility that converts physical over-the-board chess games into digital PGN notation. It uses custom state machine logic to track moves and manage the clock down to the millisecond. It essentially makes sure you don't flag while looking for your queen.
-> 
-> `Swift` `SwiftUI` `State Management`
+Privacy-focused iOS speech therapy system that detects stuttering patterns while the user speaks. I worked on the real-time audio pipeline and Dynamic Time Warping based speech alignment so feedback stays fast, local, and useful during practice sessions.
+
+`Swift` `On-Device ML` `Audio Processing` `Speech Recognition`
+
+### [ShopEase: AI Ecommerce iOS App](https://github.com/manasjiw26/Ecommerce-IOS)
+
+Full-stack SwiftUI ecommerce app with a Node.js/Express backend, Supabase database, Razorpay checkout, registry workflows, semantic search, visual search, and AI shopping assistance.
+
+`SwiftUI` `Node.js` `Express` `Supabase` `Razorpay` `Gemini` `Groq` `Search`
+
+### [Smart Chess Clock: ClockMate](https://github.com/amayIIp/ClockMate)
+
+iOS utility for physical chess games with precise clock handling and custom state-management logic for move tracking.
+
+`Swift` `SwiftUI` `State Machines`
 
 ### [Digital Twin System Architecture](https://github.com/amayIIp/digital-twin-3d)
-> A 3D digital twin platform simulating city infrastructure. I built a Flask backend to take in massive datasets like traffic and air quality, rendering them on a CesiumJS 3D globe in real time. It is basically SimCity with real data.
-> 
-> `Python` `Flask` `CesiumJS` `Data Visualization`
 
-### [Drone Rescue System (YOLOv8 Edge ML)](https://github.com/amayIIp/drone-rescue-app)
-> An Android app for real-time human detection in rescue missions. It uses TensorFlow Lite for fast mobile inference and grabs precise GPS coordinates. Saving lives requires slightly more work than a basic hello world.
-> 
-> `Kotlin` `YOLOv8` `TensorFlow Lite` 
+3D city-infrastructure simulation platform with a Flask backend and CesiumJS visualization for live traffic and air-quality datasets.
+
+`Python` `Flask` `CesiumJS` `Data Visualization`
+
+### [Drone Rescue System](https://github.com/amayIIp/drone-rescue)
+
+Android rescue-assist app using edge ML for human detection and GPS-aware incident context.
+
+`Kotlin` `TensorFlow Lite` `Computer Vision`
 
 ---
 
-## building
+## currently building
 
 ### [amay.fun](https://amay.fun)
-> A collection of highly interactive web experiences inspired by neal.fun. I'm focusing on heavy DOM manipulation and optimized rendering to hit a smooth 60 frames per second.
-> 
-> `JavaScript` `DOM Optimization` `CSS`
+
+Interactive web experiments focused on playful UI, heavy DOM manipulation, and smooth browser performance.
+
+`JavaScript` `CSS` `Performance`
 
 ---
 
+## working style
+
+I like building systems that are ambitious without being fragile: clear interfaces, practical architecture, fast feedback loops, and honest tradeoffs. I am especially interested in software engineering roles where I can work on mobile products, backend platforms, AI-enabled features, or developer-facing systems.
 
 <p align="center">
-  <i>Looking for software engineering opportunities to build scalable systems and write code that doesn't wake me up at 3 AM.</i>
+  <i>Always happy to talk about software that feels fast, useful, and thoughtfully built.</i>
 </p>
