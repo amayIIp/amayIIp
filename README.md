@@ -28,15 +28,15 @@ Privacy-focused speech therapy system that detects stuttering patterns, scores f
 
 ### ShopEase: AI Ecommerce App ([React Native](https://github.com/amayIIp/shopease_rn) & [iOS](https://github.com/manasjiw26/Ecommerce-IOS))
 
-Full-stack AI-powered ecommerce application. Originally built in SwiftUI (iOS) and completely migrated to React Native (Expo) for cross-platform parity. Features include a context-aware AI chatbot, dual-mode visual search (object & aesthetic matching), smart AI cart coaching, semantic product recommendations, intelligent registries, Razorpay checkout, and a Node.js/Supabase backend.
+Full-stack AI-powered ecommerce application available natively on iOS and completely rebuilt in React Native for cross-platform parity. Features a Node.js/Express backend with Supabase, Razorpay checkout, smart registries, semantic search, a context-aware AI chatbot, and dual-mode visual discovery (object detection & aesthetic matching).
 
-`React Native` `TypeScript` `Expo` `Supabase` `Node.js` `Gemini` `Groq` `Visual Search`
+`SwiftUI` `React Native` `TypeScript` `Node.js` `Supabase` `Razorpay` `Gemini` `Groq`
 
 ### Smart Chess Clock: ClockMate ([iOS](https://github.com/amayIIp/ClockMate) & [Android](https://github.com/amayIIp/ClockMate-Android))
 
-iOS utility for physical chess games with precise clock handling and custom state-management logic for move tracking.
+A precision over-the-board chess digitizer available for both iOS and Android. Tracks time to the millisecond while converting physical moves into a digital PGN file using custom state machine logic for fast, distraction-free move input.
 
-`Swift` `SwiftUI` `State Machines`
+`SwiftUI` `Kotlin` `Jetpack Compose` `State Machines` `PGN Parsing`
 
 ### [Digital Twin System Architecture](https://github.com/amayIIp/digital-twin-3d)
 
