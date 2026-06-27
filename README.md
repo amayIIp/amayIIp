@@ -26,11 +26,11 @@ Privacy-focused speech therapy system that detects stuttering patterns, scores f
 
 `Python` `Whisper` `JiWER` `Speech Recognition` `Tableau` `Power BI` `Forecasting`
 
-### [ShopEase: AI Ecommerce iOS App](https://github.com/manasjiw26/Ecommerce-IOS)
+### [ShopEase: AI Ecommerce App (React Native & iOS)](https://github.com/amayIIp/shopease_rn)
 
-Full-stack SwiftUI ecommerce app with a Node.js/Express backend, Supabase database, Razorpay checkout, registry workflows, semantic search, visual search, and AI shopping assistance.
+Full-stack AI-powered ecommerce application. Originally built in SwiftUI (iOS) and completely migrated to React Native (Expo) for cross-platform parity. Features include a context-aware AI chatbot, dual-mode visual search (object & aesthetic matching), smart AI cart coaching, semantic product recommendations, intelligent registries, Razorpay checkout, and a Node.js/Supabase backend.
 
-`SwiftUI` `Node.js` `Express` `Supabase` `Razorpay` `Gemini` `Groq` `Search`
+`React Native` `TypeScript` `Expo` `Supabase` `Node.js` `Gemini` `Groq` `Visual Search`
 
 ### [Smart Chess Clock: ClockMate](https://github.com/amayIIp/ClockMate)
 
