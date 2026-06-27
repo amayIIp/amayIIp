@@ -26,13 +26,13 @@ Privacy-focused speech therapy system that detects stuttering patterns, scores f
 
 `Python` `Whisper` `JiWER` `Speech Recognition` `Tableau` `Power BI` `Forecasting`
 
-### [ShopEase: AI Ecommerce App (React Native & iOS)](https://github.com/amayIIp/shopease_rn)
+### ShopEase: AI Ecommerce App ([React Native](https://github.com/amayIIp/shopease_rn) & [iOS](https://github.com/manasjiw26/Ecommerce-IOS))
 
 Full-stack AI-powered ecommerce application. Originally built in SwiftUI (iOS) and completely migrated to React Native (Expo) for cross-platform parity. Features include a context-aware AI chatbot, dual-mode visual search (object & aesthetic matching), smart AI cart coaching, semantic product recommendations, intelligent registries, Razorpay checkout, and a Node.js/Supabase backend.
 
 `React Native` `TypeScript` `Expo` `Supabase` `Node.js` `Gemini` `Groq` `Visual Search`
 
-### [Smart Chess Clock: ClockMate](https://github.com/amayIIp/ClockMate)
+### Smart Chess Clock: ClockMate ([iOS](https://github.com/amayIIp/ClockMate) & [Android](https://github.com/amayIIp/ClockMate-Android))
 
 iOS utility for physical chess games with precise clock handling and custom state-management logic for move tracking.
 
